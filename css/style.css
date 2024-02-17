@@ -132,6 +132,21 @@ img {
 .business-section {
     background-color: #2E2F42;
     padding: 188px 0;
+    background-image: linear-gradient(
+        to bottom,
+        rgba(46, 47, 66, 0.70),
+        rgba(46, 47, 66, 0.70)
+    ),
+     url(../images/busines/people-office_1_720.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    max-width: 1440px;
+    margin: 0 auto;
+   
+}
+.business-section .container {
+    
 }
 
 .main-title {
