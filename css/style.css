@@ -220,10 +220,7 @@ img {
     font-weight: 500;
     line-height: 1.2;
     letter-spacing: 0.02em;
-    
-}
-
-
+    }
 
 .text {
     color: #434455;
@@ -233,6 +230,16 @@ img {
     letter-spacing: 0.02em;
     width: 264px;
 } 
+
+.advantage-item-box {
+    border: 1px solid #8e8f99;
+    border-radius: 4px;
+    background-color: #f4f4fd;
+    padding: 24px 0;
+    margin-bottom: 8px;
+    text-align: center;
+
+}
 
 /* Our team */
 
@@ -287,6 +294,11 @@ img {
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
+
+.team-icon {
+    fill: #F4F4FD    
+}
+
 
 /* Portfolio */
 
